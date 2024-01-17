@@ -1,0 +1,29 @@
+cn{
+    background-color: rgb(167, 230, 128);
+     height: 300px;
+    width:1150px ;
+    margin-top:30px;
+    margin-left:200px;
+}
+.p2{
+    font-size: 25px;
+    padding: 25px; ;
+}
+
+.form1{
+    color: rgb(15, 15, 15);
+    background-color: rgb(185, 232, 104);
+    height:fit-content;
+    width:fit-content;
+    text-align: left;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 10px 150px;
+    border-radius: 10px;
+     
+}
+ 
+
+.dt{
+    padding: 100px;
